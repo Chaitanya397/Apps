@@ -1,0 +1,31 @@
+.line {
+    background-color: black;
+    width: 70px;
+    height: 6px;
+    margin: 8px auto;
+    margin-bottom: 20px;
+}
+body{
+    text-align: center;
+}
+#app_projects{
+    
+}
+.games{
+ width: 300px;
+ transition: transform 0.2s;
+    
+}
+.games:hover{
+    transform: scale(0.9)
+}
+.app_project{
+    background-color: chocolate 
+}
+#mycarousel{
+    background-color: skyblue;
+}
+#mycarousel img{
+    margin: 10px;
+    
+}
